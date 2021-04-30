@@ -1,0 +1,8 @@
+yamada 45
+sato 67
+tanaka 38
+kimura 87
+suzuki 56
+murata 78
+yamasita 91
+kojima 45
